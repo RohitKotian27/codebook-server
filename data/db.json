@@ -259,7 +259,7 @@
       "user": {
         "name": "Rohit Kotian",
         "email": "rkrocks123@gmail.com",
-        "cbid": 5
+        "cbid": 1
       },
       "id": 1
     }
@@ -269,7 +269,7 @@
       "email": "rkrocks123@gmail.com",
       "password": "$2a$10$utTH11d3vPUIlX.6OFpnO.OhU0NJSo.VOzmN0/9kYTgC.2Ntvp.l2",
       "name": "Rohit Kotian",
-      "id": 5
+      "id": 1
     }
   ]
 }
