@@ -1,6 +1,7 @@
 import express from "express";
 import jsonServer from "json-server";
 import auth from "json-server-auth";
+const cors = require('cors');
 
 const server = express();
 server.use((req, res, next) => {
@@ -21,6 +22,7 @@ const rules = auth.rewriter({
     users: 600
 });
 
+server.use(cors())
 server.use(rules)
 server.use(auth)
 server.use(middlewares)
