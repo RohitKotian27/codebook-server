@@ -22,8 +22,8 @@ const rules = auth.rewriter({
     users: 600
 });
 
+server.use(cors())
 server.use(rules)
-server.use(cors());
 server.use(auth)
 server.use(middlewares)
 server.use(router)
