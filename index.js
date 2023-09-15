@@ -5,7 +5,7 @@ import cors from "cors";
 
 const server = express();
 server.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', 'https://yourcodebook.netlify.app/')
+    res.header('Access-Control-Allow-Origin', '*')
     res.header('Access-Control-Allow-Headers', '*')
     next()
 })
