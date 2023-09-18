@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 10001,
-      "name": "Basics To Advanced In React",
+      "name": "Learn from Basics To Advanced In React",
       "overview": "React is one of the most popular and in-demand technologies in modern web development.",
       "long_description": "Using a component-based approach, React allows you to build interactive user interfaces using JavaScript. This course is designed to teach you everything you need to know to build modern applications using React. You’ll learn to build a Trello-inspired project that will enable you to take advantage of React's features: • Scaffolding projects using the Create React app • React file and folder structures and what they do • What components are and how to use them • Writing JSX • Class-based and function components • Managing state • Looping through data • Using props to pass data and methods to components You won't stop there! Even though React handles the user interface for us, most apps also need a backend. You’ll use Firebase to provide a real-time database for your project. This will help you not only to store your data, but also to be subscribed to any database changes as they happen. You’ll learn how to do the following: • Set up a Firestore database • Push and read data from our database • Update and delete data • Sort and filter data • Work with real-time data using onSnapshot This course will guide you in using Firebase to handle authentication. Users can sign up and log in and out, allowing them to have their own personal boards that only they can see and edit. You’ll also take advantage of React's Context API to pass the user's auth state throughout your application and handle conditional rendering. To round things off, you’ll look at how to build your project for production and then deploy it for the world to see!",
       "price": 99,
@@ -68,7 +68,7 @@
     {
       "id": 10006,
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Are you looking to use Vue.js 3 for building web apps but don't know where to begin?",
+      "overview": "Are you looking to use Vue.js 3 for building web apps but don't know where to begin? Learn to explore more.",
       "long_description": "Frontend Development Projects with Vue.js 3 will help you get to grips with the core concepts of this JavaScript framework using practical examples that simulate real-world web projects. With this updated edition, you’ll experience all aspects of the new and improved Vue.js 3 as you work on mini projects such as a chat interface, a shopping cart, a price calculator, a to-do app, and a profile card generator for storing contact details. These realistic projects are presented as bite-size exercises that you can enjoy even as you challenge yourself. Throughout the book, you'll discover how to manage data in Vue components, define communication interfaces between components, and handle static and dynamic routing to control application flow. You'll also work with Vite and Vue DevTools and learn how to handle transition and animation effects for an engaging user experience. Finally, you’ll see how to test your app and deploy it to the web. By the end of this Vue.js book, you'll have the skills that enable you to work like an experienced Vue developer to build professional apps that can be used by others and have the confidence to tackle real-world frontend web development problems.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
@@ -94,7 +94,7 @@
     {
       "id": 10008,
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "JavaScript stands bestride the world like a colossus.",
+      "overview": "This all-practical guide is stuffed with code recipes and keys to help you unlock the full potential of JavaScript.",
       "long_description": "Having conquered web development, it now advances into new areas such as server scripting, desktop and mobile development, game scripting, and more. One of the most essential languages for any modern developer, the fully-engaged JavaScript programmer need to know the tricks, non-documented features, quirks, and best practices of this powerful, adaptive language. This all-practical guide is stuffed with code recipes and keys to help you unlock the full potential of JavaScript. Start by diving right into the core of JavaScript, with power user techniques for getting better maintainability and performance from the basic building blocks of your code. Get to grips with modular programming to bring real power to the browser, master client-side JavaScript scripting without jQuery or other frameworks, and discover the full potential of asynchronous coding. Do great things with HTML5 APIs, including building your first web component, tackle the essential requirements of writing large-scale applications, and optimize JavaScript’s performance behind the browser. Wrap up with in-depth advice and best practice for debugging and keeping your JavaScript maintainable for scaling, long-term projects. With every task demonstrated in both classic ES5 JavaScript and next generation ES6-7 versions of the language, Whether read cover-to-cover or dipped into for specific keys and recipes, JavaScript Unlocked is your essential guide for pushing JavaScript to its limits.",
       "price": 49,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
@@ -133,7 +133,7 @@
     {
       "id": 10011,
       "name": "Web Development Foundation",
-      "overview": "Master the art of web development with this comprehensive course on HTML, CSS, and JavaScript.",
+      "overview": "Master the art of web development with this comprehensive course on HTML, CSS, and JavaScript. Learn the essential skills and techniques.",
       "long_description": "Learn the essential skills and techniques to create stunning web applications, from structuring web pages with HTML tags to styling them with CSS and adding interactivity with JavaScript. In the HTML sections, we'll cover web markup language, creating and structuring web pages, working with links, images, lists, forms, and best practices for accessibility and SEO. In the CSS sections, we'll learn how to style web pages with color, typography, layout, and responsive design. You will also explore CSS frameworks and preprocessors for efficient web development. In the JavaScript sections, we'll cover programming basics, variables, data types, operators, control structures, functions, objects, and working with the DOM for dynamic web content. Throughout the course, you will work on real projects, applying what you have learned to create fully functional web applications. You will design web pages, add interactive elements, and implement JavaScript functionality for a seamless user experience. You will also learn best practices for debugging and optimizing code. By the end of this course, you will have a solid foundation in web development with HTML, CSS, and JavaScript. Create visually appealing and interactive web applications that are optimized for search engines and accessible to all users.",
       "price": 49,
       "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
@@ -146,7 +146,7 @@
     {
       "id": 10012,
       "name": "Mastering Git and GitHub - A Practical Guide",
-      "overview": "This course is designed to guide you through working with Git and GitHub.",
+      "overview": "This course is designed to guide you through working with Git and GitHub. You will start by learning how to install Git and initialize a new Git repository.",
       "long_description": "You will start by learning how to install Git and initialize a new Git repository on Windows, Mac, and Linux/Unix systems and then understand how to use it on the command line. Next, you will learn the four types of objects in Git: blobs, trees, commits, and annotated tags. Each object has a unique SHA1 hash. All objects are stored in the folders. Every object has just a single reference to it-SHA1 hash. Files are stored in blobs. Filenames are stored in other Git objects called trees. The videos will guide you through making changes, staging them, and committing them afterward. Also, you will learn and practice how to observe commits tree and checkout different commits to “travel in time” between different states of the Git repository. By the end of this course, you will be well-versed with the basics of Git and GitHub.",
       "price": 9,
       "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
@@ -158,7 +158,7 @@
     },
     {
       "id": 10013,
-      "name": "Diving Deep With Python 2.7",
+      "name": "Diving Deep With Python 2.7 programming",
       "overview": "Python is a great language to get started in the world of programming and application development.",
       "long_description": "This course will help you to take your skills to the next level having a good knowledge of the fundamentals of Python. We begin with the absolute foundation, covering the basic syntax, type variables, and operators. Then we'll move on to concepts such as statements, arrays, operators, string processing, and I/O handling. You’ll learn how to operate tuples, and understand the functions and methods of lists. We’ll help you develop a deep understanding of list and tuples and you’ll learn about the Python dictionary. As you progress through the course, you’ll learn about function parameters and how to use control statements with the loop. Further on, you’ll see how to create modules and packages, storing of data as well as handling errors. Later, we’ll dive into advanced level concepts such as Python collections and you’ll see how to use class, methods, and objects in Python. By the end of this course, you’ll have taken your skills to the next level, with a good knowledge of the fundamentals of Python. This course uses Python 2.7.13, while not the latest version available, it provides relevant and informative content for legacy users of Python.",
       "price": 29,
@@ -213,7 +213,7 @@
     {
       "id": 10008,
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "JavaScript stands bestride the world like a colossus.",
+      "overview": "This all-practical guide is stuffed with code recipes and keys to help you unlock the full potential of JavaScript.",
       "long_description": "Having conquered web development, it now advances into new areas such as server scripting, desktop and mobile development, game scripting, and more. One of the most essential languages for any modern developer, the fully-engaged JavaScript programmer need to know the tricks, non-documented features, quirks, and best practices of this powerful, adaptive language. This all-practical guide is stuffed with code recipes and keys to help you unlock the full potential of JavaScript. Start by diving right into the core of JavaScript, with power user techniques for getting better maintainability and performance from the basic building blocks of your code. Get to grips with modular programming to bring real power to the browser, master client-side JavaScript scripting without jQuery or other frameworks, and discover the full potential of asynchronous coding. Do great things with HTML5 APIs, including building your first web component, tackle the essential requirements of writing large-scale applications, and optimize JavaScript’s performance behind the browser. Wrap up with in-depth advice and best practice for debugging and keeping your JavaScript maintainable for scaling, long-term projects. With every task demonstrated in both classic ES5 JavaScript and next generation ES6-7 versions of the language, Whether read cover-to-cover or dipped into for specific keys and recipes, JavaScript Unlocked is your essential guide for pushing JavaScript to its limits.",
       "price": 39,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
