@@ -80,8 +80,8 @@
     },
     {
       "id": 10007,
-      "name": "Master the Code Review",
-      "overview": "Master the Code Review presents a comprehensive review of modern techniques used to transform raw source code into finished product.",
+      "name": "Master the Code Review Process",
+      "overview": "Learn comprehensive and modern techniques used to transform raw source code into finished product.",
       "long_description": "In addition to exploring current tools and methods, the guide reviews common techniques and best practices for debugging, testing, and preparing code for commercial release. Throughout, the emphasis is on completeness of coverage in test cases, complete exercise and optimization of code, and use of appropriate procedures and workflows to ensure that changes to code bases are properly recognized, tested, and integrated. The primary development environment targeted in this book is Visual Studio 2008, but even those who use other development environments and toolsets will find the exploration of code analysis and metrics, taxonomies and illustrations of common coding errors, and automated code optimization techniques to be of great interest. The discussion includes methods to reduce code complexity, make most effective use of resources, analyze code path length, and determine optimal use of code libraries, and predefined objects and methods.",
       "price": 49,
       "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
