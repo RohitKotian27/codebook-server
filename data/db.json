@@ -42,7 +42,7 @@
     {
       "id": 10004,
       "name": "The Complete Guide to Backend Development",
-      "overview": "This comprehensive course is designed to create server-based and serverless applications using the Express framework and Node.js.",
+      "overview": "Create server-based and serverless applications using the Express.js and Node.js.",
       "long_description": "This course starts with an introduction to Node.js, then you will explore more about the Node.js filesystem. Following that, you will be learning about Express.js and its use cases. After that, you will work on a small project using Express.js and use various CRUD operations while working on the project. Next, you will build a serverless app with API requests. Throughout the course, you will learn how to set up routes, handle post requests, use middleware, authenticate usernames and passwords with Express and Passport, and use Handlebars for templating. Additionally, you will gain hands-on experience in working with databases, hashing and salting, and setting up sign-up forms and log-out functionality. By the end of this course, you will have the confidence and skills to build your own web applications with the Express framework and Node.js. With code-along sessions, quizzes, and solution files available every step of the way, you will be able to reinforce your knowledge and practice until you feel confident in your ability to develop professional-quality applications.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
