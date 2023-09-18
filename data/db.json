@@ -200,7 +200,7 @@
     {
       "id": 10006,
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Are you looking to use Vue.js 3 for building web apps but don't know where to begin?",
+      "overview": "Are you looking to use Vue.js 3 for building web apps but don't know where to begin? Learn to explore more.",
       "long_description": "Frontend Development Projects with Vue.js 3 will help you get to grips with the core concepts of this JavaScript framework using practical examples that simulate real-world web projects. With this updated edition, you’ll experience all aspects of the new and improved Vue.js 3 as you work on mini projects such as a chat interface, a shopping cart, a price calculator, a to-do app, and a profile card generator for storing contact details. These realistic projects are presented as bite-size exercises that you can enjoy even as you challenge yourself. Throughout the book, you'll discover how to manage data in Vue components, define communication interfaces between components, and handle static and dynamic routing to control application flow. You'll also work with Vite and Vue DevTools and learn how to handle transition and animation effects for an engaging user experience. Finally, you’ll see how to test your app and deploy it to the web. By the end of this Vue.js book, you'll have the skills that enable you to work like an experienced Vue developer to build professional apps that can be used by others and have the confidence to tackle real-world frontend web development problems.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
